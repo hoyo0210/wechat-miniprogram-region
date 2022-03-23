@@ -1,0 +1,3 @@
+<view class="wrapper">
+  <amap adcode="100000" bindchange="handleDone"/>
+</view>
